@@ -38,6 +38,8 @@ int main() {
             printf("Digite a terceira nota: ");
             scanf(" %f", &nota3);
 
+            float media = (nota1 + nota2 + nota3) / 3;
+
     }
 
     return 0;
