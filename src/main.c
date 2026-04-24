@@ -23,6 +23,8 @@ int main() {
             float nota1;
             float nota2;
 
+        printf("Digite a primeira nota: ");
+        scanf("%f", &nota1);
     }
 
     return 0;
