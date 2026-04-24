@@ -11,7 +11,8 @@ int main() {
     int opcao;
 
     if (opcao != 1 && opcao != 2 && opcao != 3){
-
+        
+        printf("Opção Invalida");
     
     }
     
