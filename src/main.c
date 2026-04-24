@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+void menu(){
 
     printf("\n===== Bem vindo ao sistema de notas =====\n");
     printf("1. Digitar notas\n");
@@ -8,6 +8,11 @@ int main() {
     printf("3. Sair do sistema\n");
     printf("Opcao: ");
 
+}
+
+int main() {
+
+    menu();
     int opcao;
 
     if (opcao != 1 && opcao != 2 && opcao != 3){
