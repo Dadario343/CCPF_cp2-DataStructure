@@ -12,8 +12,8 @@ int main() {
 
     if (opcao != 1 && opcao != 2 && opcao != 3){
         
-        printf("Opção Invalida");
-        printf("Digite Novamente");
+        printf("Opção Invalida\n");
+        printf("Digite Novamente\n");
     
     }
     
