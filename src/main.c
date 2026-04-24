@@ -9,6 +9,11 @@ int main() {
     printf("Opcao: ");
 
     int opcao;
+
+    if (opcao != 1 && opcao != 2 && opcao != 3){
+
+    
+    }
     
     return 0;
 }
