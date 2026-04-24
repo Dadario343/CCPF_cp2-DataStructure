@@ -7,6 +7,8 @@ int main() {
     printf("2. Digitar frequencia do aluno\n");
     printf("3. Sair do sistema\n");
     printf("Opcao: ");
+
+    int opcao;
     
     return 0;
 }
