@@ -17,5 +17,13 @@ int main() {
     
     }
     
+    switch (opcao) {
+
+        case 1:
+            float nota1;
+            float nota2;
+
+    }
+
     return 0;
 }
